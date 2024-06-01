@@ -1,10 +1,13 @@
 ## nvlite 
 
-[nvchad](https://nvchad.com/), but with fewer plugins
+[nvchad](https://nvchad.com/), but with fewer plugins:
 
 ```
-- nvim-autopairs
-- LuaSnip
+nvim-autopairs
+LuaSnip
+LuaSnip
+cmp-nvim-lua
+cmp-buffer
 ```
 
 ### Installation
