@@ -1,4 +1,5 @@
 #!/bin/bash
 
-cp -r extras/* ~/.local/share/nvim/lazy/NvChad/lua/nvchad/configs/
+
+cp -r nvchad ~/.local/share/nvim/lazy/NvChad/lua/
 

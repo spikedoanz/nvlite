@@ -21,5 +21,5 @@ git clone git@github.com:spikedoanz/nvlite.git ~/.config/nvim && nvim
 Overwrite configs
 
 ```
-cp -r extras/* ~/.local/share/nvim/lazy/NvChad/lua/nvchad/configs/
+cp -r nvchad ~/.local/share/nvim/lazy/NvChad/lua/
 ```
